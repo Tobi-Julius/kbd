@@ -1,0 +1,209 @@
+body{
+    max-width: 10px;
+    background-attachment: fixed;
+}
+header{
+        background-attachment: fixed;
+}
+.hea{
+    display: grid;
+}
+.head{
+    background: rgb(2, 2, 27);
+    display: flex;
+    width: 1350px;
+    max-width: 1350px ;
+    height: 100px;
+    position: relative;
+}
+.head1{
+    display: flex;
+    font-size: 1.7rem;
+    width: 10px;
+    font-stretch: ultra-expanded;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1px;
+    position: relative;
+    left: 29px;
+    color: white;
+}
+.head2{
+    font-size: 20px;
+    position: relative;
+    left: 1075px;
+    top: 25px;
+    color: rgb(16, 68, 16);
+}
+.nav-list{
+    display: flex;
+    position: relative;
+    left: 560px;
+    top: 45px;
+    list-style: none;
+}
+.nav-link{
+    text-decoration: none;
+    padding: 15px;
+    color: #fff;
+}
+.heada{
+    background: linear-gradient(to right, lightgreen, khaki);
+    width: 1350px;
+    height: 180px;
+    position: relative;
+}
+.headb{
+    position: relative;
+    left: 600px;
+    font-size: 30px;
+    bottom: 13px;
+
+}
+.headc{
+    position: relative;
+    text-align: center;
+    font-size: 18px;
+    width: 1000px;
+    left: 200px;
+    bottom: 26px;
+    text-transform: capitalize;
+}
+main{
+    display: grid;
+}
+.spacet{
+    color: rgb(16, 68, 16);
+    position: relative;
+    top: 28px;
+    left: 20px;
+    font-size: 25px;
+}
+.spaceta{
+    position: relative;
+    left: 20px;
+    top: 12px;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.spacetb{
+    position: relative;
+    width: 700px;
+    left: 20px;
+    top: 17px;
+    text-transform: capitalize;
+    font-size: 17px;
+}
+.spacetc{
+    position: relative;
+    top: 30px;
+    color: rgb(16, 68, 16);
+    left: 20px;
+    font-size: 25px;
+}
+.spacetd{
+    position: relative;
+    top: 25px;
+    font-size: 17px;
+}
+.side{
+    position: relative;
+    left: 800px;
+    bottom: 280px;
+}
+.sidea{
+    position: relative;
+    width: 100px;
+    top: px;
+    color: rgb(16, 68, 16);
+    font-size: 17px;
+}
+.sideb{
+    position: relative;
+    top: 7px;
+    width: 300px;
+}
+.sidec{
+    position: relative;
+    width: 100px;
+    top: 18px;
+    color: rgb(16, 68, 16);
+    font-size: 17px;
+}
+.sided{
+    position: relative;
+    top: 3px;
+    width: 300px;
+}
+.sidef{
+    position: relative;
+    width: 20px;
+    top: 45px;
+    color: rgb(16, 68, 16);
+    font-size: 17px;
+}
+.sidee{
+    position: relative;
+    top: 40px;
+    color: rgb(16, 68, 16);
+    font-size: 17px;
+}.sideg{
+    position: relative;
+    width: 20px;
+    top: 60px;
+    color: rgb(16, 68, 16);
+    font-size: 17px;
+}
+.sideh{
+    position: relative;
+    top: 65px;
+    height: 70px;
+}
+.btn{
+    color: violet;
+    position: relative;
+    top: 170px;
+    width: 120px;
+    height: 40px;
+
+    margin-left: .1rem;
+    color: #fff;
+    border:none;
+    background: #104410;
+    border-radius: 3px;
+}
+footer{
+    position: relative;
+    background: rgb(2, 2, 27);
+    width: 1350px;
+    height: 100px;
+    display: flex;
+    bottom: 20px;   
+}
+    .foota{
+    position: relative;
+    color: rgb(16, 68, 16);
+    top: 25px;
+    left: 40px;
+}
+.nav-lista{
+    display: flex;
+    position: relative;
+    left: 870px;
+    top: 2px;
+    list-style: none;
+}
+.nav-linka{
+    text-decoration: none;
+    padding: 15px;
+    color: #fff;
+    transition: rgb(16, 68, 16) .5s ease-in;
+}
+:hover:li{
+    color: blue;
+}
+:hover:link{
+    color: white;
+}
+:hover:visited{
+    color: rgb(16, 68, 16);
+}
